@@ -1,3 +1,10 @@
+### 0.6.2 / 2020-01-21
+
+* Re-release as bundler-audit-ng
+* Adding github securety advisory
+* No longer `--no-rebase` when updating the DB
+* Documentation update on usage
+
 ### 0.6.1 / 2019-01-17
 
 * Require bundler `>= 1.2.0, < 3` to support [bundler] 2.0.
